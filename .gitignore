@@ -1,0 +1,13 @@
+yolov8x.pt
+models/fairmot_dla34.pth
+.venv/
+myenv/
+Output/
+Output_2/
+Output_3/
+Output_4/
+Output_5/
+Output_6/
+Output_7/
+Output_8/
+
