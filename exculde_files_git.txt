@@ -1,0 +1,4 @@
+./yolov8x.pt
+./models/fairmot_dla34.pth
+./.venv/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib
+./myenv/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib   
